@@ -17,17 +17,6 @@ Te mandaré al centro Victoria a reformarte
 Trataré de no matarte
 Chibolo conchatumare ya me llegaste
 Ese wiskisito que te tomaste
-En el recreo te lo ampayo el pelao
-Y te mandaron a la dirección
-Te suspendieron dos días
-Y tu viejo solo atinó a decirte
-Trataré de ayudarte
-Te mandaré al centro Victoria a reformarte
-Trataré de no matarte
-Chibolo conchatumare ya me llegaste
-Trataré de ayudarte
-Te mandaré al centro Victoria a reformarte
-Trataré de no matarte
-Chibolo conchatumare ya me llegaste";
+";
 </body>
 </html>
